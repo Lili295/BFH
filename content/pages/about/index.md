@@ -1,8 +1,8 @@
 +++
-title = "About me"
+title = "About us"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
 ![](/img/default-author.jpg)
 
