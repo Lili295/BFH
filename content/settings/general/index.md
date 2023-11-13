@@ -2,6 +2,6 @@
 headless = true
 title = "Colored Entrepreneurship"
 description = "Entrepreneurship Week"
-footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
-footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
+footerLeft = "By Colored Entrepreneurship"
+footerRight = "[Instagram](https://www.instagram.com/artfulupcycling)"
 +++
