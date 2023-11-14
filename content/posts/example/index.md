@@ -24,4 +24,4 @@ The main purpose of coloured pencils is to draw or colour in per example mandala
 
 <!--EndFragment-->
 
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
+![Our Final Product](/img/default-image.jpg)
