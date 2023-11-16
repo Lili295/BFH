@@ -3,8 +3,8 @@ title = "Mandala"
 date = "2023-11-14"
 draft = false
 pinned = false
-tags = ["jewlery", "DIY", "homemade"]
-image = "/img/default-image.jpg"
+tags = ["mandala", "DIY", "homemade"]
+image = "1.jpg"
 description = "Mandala is for everyone"
 footnotes = "Sources: https://gedankenwelt.de/5-vorteile-von-mandalas/ https://kurier.at/cm/weshalb-ist-malen-gut-fuer-die-gesundheit-hier-erfahren-sie-es/401886815 https://www.rahmenversand.de/magazin/mandalas-fuer\u0002erwachsene#:\\~:text=Mandalas%20sollen%20die%20Konzentration%2C%20die,herum%20f%C3%BCr %20einen%20Moment%20vergessen https://www.entspannungstrainer-ausbildung.info/mit-mandalas\u0002entspannen/#:\\~:text=In%20der%20westlichen%20Kultur%20werden,beruhigend%20und%20hilft%20 beim%20Stressabbau"
 +++
