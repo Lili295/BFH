@@ -16,7 +16,7 @@ The main purpose of coloured pencils is to draw or colour in per example mandala
 * It combines creativity with logic 
 * Acts soothing 
 * Helps fostering attentiveness 
-* Helps to be mor focused in your job or in your studies and not get distracted that easily 
+* Helps to be more focused in your job or in your studies and not get distracted that easily 
 * Supports inner peace and calmness 
 * Helps relieving stress in your everyday life 
 * Acts as a form of meditation and therefore helps to forget the world around you for a moment
@@ -24,4 +24,4 @@ The main purpose of coloured pencils is to draw or colour in per example mandala
 
 <!--EndFragment-->
 
-![Our Final Product](/img/default-image.jpg)
+![Our Final Product](1.jpg)
