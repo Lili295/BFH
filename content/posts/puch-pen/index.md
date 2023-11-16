@@ -3,6 +3,8 @@ title = "Touch Pen"
 date = "2023-11-14"
 draft = false
 pinned = false
+tags = ["ipad", "tablet"]
+image = "1.jpg"
 description = "Cheap Pencil For Your Tablet or Smartphone"
 +++
 Looking for a creative and budget-friendly way to make your own touch pen? Look no further! In this DIY guide, we'll show you how to craft a unique touch pen using just a few materials, with a colorful twist - colored pencils.
