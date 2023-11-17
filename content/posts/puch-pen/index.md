@@ -3,7 +3,7 @@ title = "Touch Pen"
 date = "2023-11-14"
 draft = false
 pinned = false
-tags = ["ipad", "tablet"]
+tags = ["ipad", "tablet", "smartphone"]
 image = "1.jpg"
 description = "Cheap Pencil For Your Tablet or Smartphone"
 +++
